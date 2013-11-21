@@ -1,0 +1,16 @@
+Algorithm: SMPSO
+Input File: CAS.txt
+
+Crossover Probability: 20.0
+Mutation Probability: 0.0
+Population Size: 100
+Max Evaluations: 200
+Number of Generations: 2
+Archive Size: 100
+Best Pareto: Execution 17
+
+Best Hypervolume: 0.8120965602617386
+Hypervolume Mean: 0.7969080673210128
+Hypervolume Standard Deviation: 0.011041604005197067
+
+Execution Time: 1944
